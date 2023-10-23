@@ -47,7 +47,6 @@ You can make various contributions like fixing typos, improving documentation, a
 
 ## 📄 License
 
-This project is open-source and available under the MIT License. See [LICENSE](LICENSE) for details.
 
 Start your open-source journey and let's build something amazing together! 💪💻
 
