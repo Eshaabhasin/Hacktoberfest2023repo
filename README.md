@@ -1,5 +1,7 @@
 # Hacktoberfest2023 Repository
 
+![image](https://github.com/Eshaabhasin/Hacktoberfest2023repo/assets/43770452/e3539d88-e89c-4597-8f52-88d89a2ae419)
+
 What is Hacktoberfest?
 Hacktoberfest is an annual event where people from around the world come together to contribute to open source projects. The goal is to encourage participation in the open source community and create meaningful contributions that benefit a variety of projects. By participating, you can learn new skills, connect with like-minded individuals, and earn some cool swag.
 
@@ -13,6 +15,8 @@ Global Collaboration: During Hacktoberfest, developers from all over the world c
 Rewards and Recognition: Hacktoberfest is something worth your effort. By submitting a certain number of pull requests, you'll earn a limited amount of bonus and, most importantly, a sense of accomplishment that makes a difference.
 
 Understanding the nature of open source sets the stage for your Hacktoberfest journey. It's not just about coding; it is about learning, connection and a vision of wider collaboration.
+
+
 
 # Your First Open-Source Contribution Starter Kit 🌟🎉
 
