@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/Web1/Hacktoberfest2023repo",
-      "program": "d:/Web1/Hacktoberfest2023repo/build/Debug/outDebug",
+      "cwd": "d:/Web1/Hacktoberfest2023repo/C++/C++",
+      "program": "d:/Web1/Hacktoberfest2023repo/C++/C++/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
